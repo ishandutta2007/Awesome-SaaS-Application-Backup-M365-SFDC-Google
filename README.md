@@ -4,10 +4,13 @@
 
 # 🛡️ Awesome SaaS Application Backup (M365, SFDC, Google) ☁️
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated directory of top-tier SaaS Application Backup and Cloud-to-Cloud Data Protection solutions for Microsoft 365, Salesforce (SFDC), and Google Workspace — featuring enterprise SaaS platforms and self-hosted open-source alternatives.**
 
@@ -29,6 +32,8 @@
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
 - [🎯 Selection Guide & Architecture Patterns](#-selection-guide--architecture-patterns)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -294,6 +299,23 @@ Contributions are warmly encouraged! If you know of an active open-source projec
 6. Open a Pull Request 🚀
 
 Please ensure open-source additions are actively maintained (releases or commits within the last 12 months) and properly categorized.
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated guide to SaaS Application Backup and data resilience! If you find this directory valuable, here are a few ways you can show support:
+
+- ⭐ **Star** this repository to make it more discoverable across GitHub.
+- 🍴 **Fork** and contribute new tools or improved benchmarks.
+- 📢 **Share** it with fellow system administrators, DevOps engineers, and cloud architects.
+- ☕ **Buy me a coffee / Sponsor:** If this resource helped you save time or pick the right backup architecture, consider sponsoring the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to help support future maintenance and open-source tooling!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-SaaS-Application-Backup-M365-SFDC-Google&type=date&legend=top-left)
 
 ---
 
