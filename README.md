@@ -157,81 +157,81 @@ Community-driven, self-hosted open-source software, CLIs, and frameworks for bac
 
 ### 🏆 Open-Source Solutions Ranked by Stars
 
-> Sorted in descending order by **GitHub Star Count**. Each badge links directly to the project's stargazers list.
+> Sorted in descending order by **GitHub Stars_Count**. Each badge links directly to the project's stargazers list.
 
-| Repository | GitHub Stars 🌟 | Stack 🛠️ | Target Workloads 🎯 | License 📜 | Description |
+| Repository | GitHub_Stars 🌟 | Stack 🛠️ | Target Workloads 🎯 | License 📜 | Description |
 |:---|:---:|:---|:---|:---|:---|
-| **[gaubert/gmvault](https://github.com/gaubert/gmvault)** | [![GitHub stars](https://img.shields.io/github/stars/gaubert/gmvault?style=social&color=white)](https://github.com/gaubert/gmvault/stargazers) | Python | Gmail / Google Workspace | AGPL-3.0 | Pioneering open-source tool for full Gmail mailbox backup and IMAP synchronization. |
-| **[GAM-team/got-your-back](https://github.com/GAM-team/got-your-back)** | [![GitHub stars](https://img.shields.io/github/stars/GAM-team/got-your-back?style=social&color=white)](https://github.com/GAM-team/got-your-back/stargazers) | Python | Gmail / Google Workspace | Apache-2.0 | High-performance CLI tool using official Gmail API to back up and restore email & labels as `.eml`. |
-| **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** | [![GitHub stars](https://img.shields.io/github/stars/LogicLabs-OU/OpenArchiver?style=social&color=white)](https://github.com/LogicLabs-OU/OpenArchiver/stargazers) | Node.js / TS / SvelteKit / Postgres / Meilisearch | Google Workspace, M365, IMAP | AGPL-3.0 | Modern self-hosted email archiving, compliance, and full-text eDiscovery platform. |
-| **[Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC)** | [![GitHub stars](https://img.shields.io/github/stars/Microsoft365DSC/Microsoft365DSC?style=social&color=white)](https://github.com/Microsoft365DSC/Microsoft365DSC/stargazers) | PowerShell / DSC | Microsoft 365 Tenant Configuration | MIT | Infrastructure-as-Code tenant configuration backup, drift detection, and automated restoration. |
-| **[alcionai/corso](https://github.com/alcionai/corso)** | [![GitHub stars](https://img.shields.io/github/stars/alcionai/corso?style=social&color=white)](https://github.com/alcionai/corso/stargazers) | Go / Kopia | Microsoft 365 (Exchange, OneDrive, SharePoint) | Apache-2.0 | High-throughput, end-to-end encrypted M365 backup engine for S3 object storage *(Archived)*. |
-| **[smartondev/gwbackupy](https://github.com/smartondev/gwbackupy)** | [![GitHub stars](https://img.shields.io/github/stars/smartondev/gwbackupy?style=social&color=white)](https://github.com/smartondev/gwbackupy/stargazers) | Python | Google Workspace (Gmail) | BSD-3-Clause | Lightweight, actively maintained CLI & Docker utility for Google Workspace email and label backups. |
-| **[devrandom-se/heimdall](https://github.com/devrandom-se/heimdall)** | [![GitHub stars](https://img.shields.io/github/stars/devrandom-se/heimdall?style=social&color=white)](https://github.com/devrandom-se/heimdall/stargazers) | Java / Spring Boot / Postgres / S3 | Salesforce (SFDC) | AGPL-3.0 | Open-source Salesforce backup & restore web app with record version diffs and deduplication. |
-| **[carojkov/salesforce-export-downloader](https://github.com/carojkov/salesforce-export-downloader)** | [![GitHub stars](https://img.shields.io/github/stars/carojkov/salesforce-export-downloader?style=social&color=white)](https://github.com/carojkov/salesforce-export-downloader/stargazers) | Ruby | Salesforce Weekly Export Data | MIT | Automated downloader script for scheduled Salesforce backup archives with email notifications. |
-| **[wisecom-oy/atlas](https://github.com/wisecom-oy/atlas)** | [![GitHub stars](https://img.shields.io/github/stars/wisecom-oy/atlas?style=social&color=white)](https://github.com/wisecom-oy/atlas/stargazers) | Go | Microsoft 365 (Exchange, OneDrive, SharePoint) | MIT | Open-source backup and restore engine for M365 to local/S3-compatible object storage. |
-| **[dthagard/salesforce_backup](https://github.com/dthagard/salesforce_backup)** | [![GitHub stars](https://img.shields.io/github/stars/dthagard/salesforce_backup?style=social&color=white)](https://github.com/dthagard/salesforce_backup/stargazers) | Python | Salesforce Objects & Records | MIT | Lightweight script for automated Salesforce record extraction and upload to AWS S3 / Azure. |
+| **[gaubert/gmvault](https://github.com/gaubert/gmvault)** | [![GitHub_Stars](https://img.shields.io/github/stars/gaubert/gmvault?style=social&color=white)](https://github.com/gaubert/gmvault/stargazers) | Python | Gmail / Google Workspace | AGPL-3.0 | Pioneering open-source tool for full Gmail mailbox backup and IMAP synchronization. |
+| **[GAM-team/got-your-back](https://github.com/GAM-team/got-your-back)** | [![GitHub_Stars](https://img.shields.io/github/stars/GAM-team/got-your-back?style=social&color=white)](https://github.com/GAM-team/got-your-back/stargazers) | Python | Gmail / Google Workspace | Apache-2.0 | High-performance CLI tool using official Gmail API to back up and restore email & labels as `.eml`. |
+| **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** | [![GitHub_Stars](https://img.shields.io/github/stars/LogicLabs-OU/OpenArchiver?style=social&color=white)](https://github.com/LogicLabs-OU/OpenArchiver/stargazers) | Node.js / TS / SvelteKit / Postgres / Meilisearch | Google Workspace, M365, IMAP | AGPL-3.0 | Modern self-hosted email archiving, compliance, and full-text eDiscovery platform. |
+| **[Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC)** | [![GitHub_Stars](https://img.shields.io/github/stars/Microsoft365DSC/Microsoft365DSC?style=social&color=white)](https://github.com/Microsoft365DSC/Microsoft365DSC/stargazers) | PowerShell / DSC | Microsoft 365 Tenant Configuration | MIT | Infrastructure-as-Code tenant configuration backup, drift detection, and automated restoration. |
+| **[alcionai/corso](https://github.com/alcionai/corso)** | [![GitHub_Stars](https://img.shields.io/github/stars/alcionai/corso?style=social&color=white)](https://github.com/alcionai/corso/stargazers) | Go / Kopia | Microsoft 365 (Exchange, OneDrive, SharePoint) | Apache-2.0 | High-throughput, end-to-end encrypted M365 backup engine for S3 object storage *(Archived)*. |
+| **[smartondev/gwbackupy](https://github.com/smartondev/gwbackupy)** | [![GitHub_Stars](https://img.shields.io/github/stars/smartondev/gwbackupy?style=social&color=white)](https://github.com/smartondev/gwbackupy/stargazers) | Python | Google Workspace (Gmail) | BSD-3-Clause | Lightweight, actively maintained CLI & Docker utility for Google Workspace email and label backups. |
+| **[devrandom-se/heimdall](https://github.com/devrandom-se/heimdall)** | [![GitHub_Stars](https://img.shields.io/github/stars/devrandom-se/heimdall?style=social&color=white)](https://github.com/devrandom-se/heimdall/stargazers) | Java / Spring Boot / Postgres / S3 | Salesforce (SFDC) | AGPL-3.0 | Open-source Salesforce backup & restore web app with record version diffs and deduplication. |
+| **[carojkov/salesforce-export-downloader](https://github.com/carojkov/salesforce-export-downloader)** | [![GitHub_Stars](https://img.shields.io/github/stars/carojkov/salesforce-export-downloader?style=social&color=white)](https://github.com/carojkov/salesforce-export-downloader/stargazers) | Ruby | Salesforce Weekly Export Data | MIT | Automated downloader script for scheduled Salesforce backup archives with email notifications. |
+| **[wisecom-oy/atlas](https://github.com/wisecom-oy/atlas)** | [![GitHub_Stars](https://img.shields.io/github/stars/wisecom-oy/atlas?style=social&color=white)](https://github.com/wisecom-oy/atlas/stargazers) | Go | Microsoft 365 (Exchange, OneDrive, SharePoint) | MIT | Open-source backup and restore engine for M365 to local/S3-compatible object storage. |
+| **[dthagard/salesforce_backup](https://github.com/dthagard/salesforce_backup)** | [![GitHub_Stars](https://img.shields.io/github/stars/dthagard/salesforce_backup?style=social&color=white)](https://github.com/dthagard/salesforce_backup/stargazers) | Python | Salesforce Objects & Records | MIT | Lightweight script for automated Salesforce record extraction and upload to AWS S3 / Azure. |
 
 ---
 
 ### 💻 Detailed Open-Source Profiles
 
 #### 📮 [gaubert/gmvault](https://github.com/gaubert/gmvault)
-[![GitHub stars](https://img.shields.io/github/stars/gaubert/gmvault?style=social&color=white)](https://github.com/gaubert/gmvault/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/gaubert/gmvault?style=social&color=white)](https://github.com/gaubert/gmvault/stargazers)
 * **Stack:** Python | **License:** AGPL-3.0
 * **Workloads:** Gmail / Google Workspace
 * **Overview:** One of the earliest and most widely adopted open-source tools designed specifically to backup and restore Gmail accounts. It connects via IMAP/OAuth, stores emails in compressed gzip files along with their metadata/labels, and provides full recovery capabilities back into any target mailbox. *(Note: Maintenance has slowed; consider GYB or gwbackupy for current API changes).*
 
 #### 📬 [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) (GYB)
-[![GitHub stars](https://img.shields.io/github/stars/GAM-team/got-your-back?style=social&color=white)](https://github.com/GAM-team/got-your-back/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/GAM-team/got-your-back?style=social&color=white)](https://github.com/GAM-team/got-your-back/stargazers)
 * **Stack:** Python | **License:** Apache-2.0
 * **Workloads:** Gmail / Google Workspace
 * **Overview:** Created by Jay Lee (the author of GAM), GYB is an indispensable CLI tool for Google Workspace administrators. It communicates natively with the Google Workspace Gmail API using OAuth 2.0 and Service Accounts with Domain-Wide Delegation. It downloads emails into standard RFC 822 `.eml` files and tracks metadata in an SQLite database, supporting incremental syncs, label restoration, and offboarding preservation.
 
 #### 🗄️ [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)
-[![GitHub stars](https://img.shields.io/github/stars/LogicLabs-OU/OpenArchiver?style=social&color=white)](https://github.com/LogicLabs-OU/OpenArchiver/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/LogicLabs-OU/OpenArchiver?style=social&color=white)](https://github.com/LogicLabs-OU/OpenArchiver/stargazers)
 * **Stack:** Node.js, TypeScript, SvelteKit, PostgreSQL, Meilisearch, Redis | **License:** AGPL-3.0
 * **Workloads:** Google Workspace (Gmail), Microsoft 365, IMAP, PST
 * **Overview:** A modern, full-stack, self-hosted email archiving, compliance, and eDiscovery system. Delivers universal ingestion from Google Workspace and Microsoft 365, deduplicated storage in standard `.eml` format, S3-compatible backend support (AWS S3, MinIO), lightning-fast Meilisearch attachment indexing (PDF, DOCX), full conversation thread reconstruction, and immutable audit logs.
 
 #### ⚙️ [Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC)
-[![GitHub stars](https://img.shields.io/github/stars/Microsoft365DSC/Microsoft365DSC?style=social&color=white)](https://github.com/Microsoft365DSC/Microsoft365DSC/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Microsoft365DSC/Microsoft365DSC?style=social&color=white)](https://github.com/Microsoft365DSC/Microsoft365DSC/stargazers)
 * **Stack:** PowerShell / PowerShell DSC | **License:** MIT
 * **Workloads:** Microsoft 365 Tenant Configuration (Exchange, SharePoint, Teams, Intune, Entra ID)
 * **Overview:** Backing up SaaS involves not only data payloads but also tenant configuration policies. Microsoft365DSC allows organizations to extract, snapshot, and version-control their complete Microsoft 365 configuration as Infrastructure-as-Code. It detects configuration drift, generates compliance reports, and can automatically revert unauthorized tenant settings.
 
 #### 🗂️ [alcionai/corso](https://github.com/alcionai/corso) *(Archived)*
-[![GitHub stars](https://img.shields.io/github/stars/alcionai/corso?style=social&color=white)](https://github.com/alcionai/corso/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/alcionai/corso?style=social&color=white)](https://github.com/alcionai/corso/stargazers)
 * **Stack:** Go / Kopia | **License:** Apache-2.0
 * **Workloads:** Microsoft 365 (Exchange, OneDrive, SharePoint, Teams)
 * **Overview:** Built by Alcion, Corso was the first major open-source cloud-native backup tool designed from the ground up for Microsoft 365. It featured client-side encryption, content-defined chunk deduplication via Kopia, and high-performance throughput writing directly to S3/MinIO. *Note: The repository was officially archived in October 2024; available for reference, custom forks, and self-compilation.*
 
 #### 🐍 [smartondev/gwbackupy](https://github.com/smartondev/gwbackupy)
-[![GitHub stars](https://img.shields.io/github/stars/smartondev/gwbackupy?style=social&color=white)](https://github.com/smartondev/gwbackupy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/smartondev/gwbackupy?style=social&color=white)](https://github.com/smartondev/gwbackupy/stargazers)
 * **Stack:** Python | **License:** BSD-3-Clause
 * **Workloads:** Google Workspace (Gmail)
 * **Overview:** An actively maintained, lightweight Google Workspace backup utility designed as a modern alternative to GMvault. Provides CLI commands and official Docker containers for automated cron backups, supporting service account authentication, incremental synchronization, and selective folder/label restores.
 
 #### 🏛️ [devrandom-se/heimdall](https://github.com/devrandom-se/heimdall)
-[![GitHub stars](https://img.shields.io/github/stars/devrandom-se/heimdall?style=social&color=white)](https://github.com/devrandom-se/heimdall/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/devrandom-se/heimdall?style=social&color=white)](https://github.com/devrandom-se/heimdall/stargazers)
 * **Stack:** Java (Spring Boot), PostgreSQL, Amazon S3 | **License:** AGPL-3.0
 * **Workloads:** Salesforce (SFDC)
 * **Overview:** A purpose-built open-source Salesforce backup system featuring a modern web user interface built with the Salesforce Lightning Design System (SLDS). Leverages the Salesforce Bulk API to snapshot records and metadata, tracks full field-level version histories, supports deleted record browsing, deduplicates file attachments (`ContentVersion`), and supports point-in-time record restoration.
 
 #### 💎 [carojkov/salesforce-export-downloader](https://github.com/carojkov/salesforce-export-downloader)
-[![GitHub stars](https://img.shields.io/github/stars/carojkov/salesforce-export-downloader?style=social&color=white)](https://github.com/carojkov/salesforce-export-downloader/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/carojkov/salesforce-export-downloader?style=social&color=white)](https://github.com/carojkov/salesforce-export-downloader/stargazers)
 * **Stack:** Ruby | **License:** MIT
 * **Workloads:** Salesforce Weekly Export Service
 * **Overview:** Automates the retrieval of scheduled Salesforce Weekly Data Export ZIP archives. Bypasses the manual manual download bottleneck by scraping/authenticating via web sessions, downloading export files to local disks or network mounts, and firing notification webhooks upon completion.
 
 #### 🌐 [wisecom-oy/atlas](https://github.com/wisecom-oy/atlas)
-[![GitHub stars](https://img.shields.io/github/stars/wisecom-oy/atlas?style=social&color=white)](https://github.com/wisecom-oy/atlas/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/wisecom-oy/atlas?style=social&color=white)](https://github.com/wisecom-oy/atlas/stargazers)
 * **Stack:** Go | **License:** MIT
 * **Workloads:** Microsoft 365 (Exchange, OneDrive, SharePoint)
 * **Overview:** A lightweight, containerized Go backup engine designed to snapshot Microsoft 365 workloads and store them securely in self-hosted S3-compatible storage (such as MinIO or Ceph) without recurring vendor licensing fees.
 
 #### 📜 [dthagard/salesforce_backup](https://github.com/dthagard/salesforce_backup)
-[![GitHub stars](https://img.shields.io/github/stars/dthagard/salesforce_backup?style=social&color=white)](https://github.com/dthagard/salesforce_backup/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/dthagard/salesforce_backup?style=social&color=white)](https://github.com/dthagard/salesforce_backup/stargazers)
 * **Stack:** Python | **License:** MIT
 * **Workloads:** Salesforce Objects & Custom Records
 * **Overview:** A scriptable Python CLI tool that queries Salesforce objects via REST/Bulk endpoints, dumps record schemas and JSON/CSV datasets, and pushes the snapshots into encrypted AWS S3 buckets or Azure Blob Storage containers.
@@ -293,7 +293,7 @@ Contributions are warmly encouraged! If you know of an active open-source projec
 
 1. Fork this repository 🍴
 2. Create your feature branch (`git checkout -b feature/new-backup-tool`)
-3. Add the project with full details (name, GitHub stars badge, pricing/license, workloads)
+3. Add the project with full details (name, GitHub_Stars_Badge, pricing/license, workloads)
 4. Commit your changes (`git commit -m 'feat: add new-backup-tool'`)
 5. Push to the branch (`git push origin feature/new-backup-tool`)
 6. Open a Pull Request 🚀
